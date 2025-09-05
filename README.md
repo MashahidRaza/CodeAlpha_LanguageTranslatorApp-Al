@@ -1,6 +1,7 @@
 # CodeAlpha_LanguageTranslatorApp-Al
-![Uploading Screenshot 2025-09-05 at 9.50.00 AM.png…]()
+<img width="1224" height="738" alt="Screenshot 2025-09-05 at 9 50 00 AM" src="https://github.com/user-attachments/assets/c075e494-2628-46de-a0dc-fa27573b12ca" />
 
+https://github.com/user-attachments/assets/96d9fb38-f18b-45d1-85dd-2af6f9ddc7c1
 
 Google - Language Translator App
 
